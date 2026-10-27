@@ -11,13 +11,13 @@
 
 <br>
 
-### 👤 About Me
+### About Me
 
 Meu nome é Ruan Lucas, sou formado em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software, com conhecimentos em desenvolvimento Full Stack. Gosto de aprender na prática, explorar o desconhecido e transformar desafios em soluções inovadoras. Sou proativo, gosto de assumir responsabilidades e estou sempre em busca de evolução profissional e novos conhecimentos.
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stacks:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,6 +26,10 @@ Meu nome é Ruan Lucas, sou formado em Análise e Desenvolvimento de Sistemas e 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
+
+---
+
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruanluc/">
