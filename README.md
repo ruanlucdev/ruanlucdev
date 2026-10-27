@@ -31,12 +31,15 @@ Meu nome é Ruan Lucas, sou formado em Análise e Desenvolvimento de Sistemas e 
 
 ### Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ruanluc/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ruan07lima@gmail.com">
-    <img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:ruan07lima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ruan.luc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
